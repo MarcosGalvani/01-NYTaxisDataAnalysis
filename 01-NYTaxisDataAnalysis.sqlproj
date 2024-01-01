@@ -60,5 +60,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Data\green_tripdata_2023-01.parquet" />
+    <None Include="Data\fhv_tripdata_2023-01.parquet" />
   </ItemGroup>
 </Project>
